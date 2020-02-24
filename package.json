@@ -1,0 +1,17 @@
+{
+  "name": "devcli-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ian Buchanan <ibuchanan@atlassian.com> (https://developer.atlassian.com/blog/authors/ibuchanan/)",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=12.16.1",
+    "npm": ">=6.13.4"
+  },
+  "type": "module"
+}
